@@ -40,7 +40,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 
 ## Participantes do projeto
 
-1- João Pedro Moscardini Carvalho
-2- Ellorá Nataly de Souza Oliverio
-3- Guilherme Dilio de Souza
+1- João Pedro Moscardini Carvalho<br>
+2- Ellorá Nataly de Souza Oliverio<br>
+3- Guilherme Dilio de Souza<br>
 4- Thiago Dourado
